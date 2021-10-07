@@ -1,3 +1,4 @@
 *.archive.ubuntu.com
 archive.ubuntu.com
 ppa.launchpad.net
+ports.ubuntu.com
